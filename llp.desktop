@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=0.41fa
+Name=Lightning Lang Patcher
+Type=Application
+Comment=lighting lang Patcher
+Terminal=false
+Exec=pkexec /usr/bin/python /opt/lighttrans/lighttrans.py
+Icon=llp
+StartupNotify=true
+Categories=Network;
+GenericName=Lightning Lang Patcher
+Keywords=Lightning
